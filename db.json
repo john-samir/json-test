@@ -3,12 +3,7 @@
     "id":1,
     "name": "John Samir",
     "email": "john_samir@outlook.com",
-    "mobile": "+9715555444",
-    "address": 
-    {
-      "country": "Egypt",
-      "city": "Cairo"
-    }
+    "mobile": "+9715555444"
   },
   {
     "id":2,
