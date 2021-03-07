@@ -8,8 +8,7 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 27
+    }
   },
   {
     "id":2,
@@ -20,8 +19,7 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 26
+    }
   },
   {
     "id":3,
@@ -32,8 +30,7 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 26
+    }
   },
   {
     "id":4,
@@ -44,8 +41,7 @@
     {
       "country": "Hungary",
       "city": "Budapest"
-    },
-    "age": 28
+    }
   },
   {
     "id":5,
@@ -56,8 +52,7 @@
     {
       "country": "America",
       "city": "California"
-    },
-    "age": 25
+    }
   },
   {
     "id":6,
@@ -68,8 +63,7 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 27
+    }
   },
   {
     "id":7,
@@ -80,8 +74,7 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 29
+    }
   },
   {
     "id":8,
@@ -92,7 +85,6 @@
     {
       "country": "Egypt",
       "city": "Cairo"
-    },
-    "age": 40
+    }
   }
 ]
